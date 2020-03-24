@@ -9,4 +9,4 @@ tensorflow-estimator==2.1.0
 tensorflow-gpu==2.1.0
 tf-estimator-nightly==2.1.0.dev2020012309
 tf-nightly==2.2.0.dev20200324
-Werkzeug==0.14.1
+Werkzeug==0.15.3
