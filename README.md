@@ -14,7 +14,7 @@ Implemented a show and tell model trained on Flickr 8K dataset to generate image
 
 **Step 5.** Get the caption by running the following command:
 
-`curl -i -X POST -H "Content-Type: multipart/form-data" -F "file=<filepath>" http://127.0.0.1:8000/getCaption`
+`curl -i -X POST -H "Content-Type: multipart/form-data" -F "file=<image filepath>" http://127.0.0.1:8000/getCaption`
 
 
 **Jupyter notebook can also be used for interactive generation captions.**
