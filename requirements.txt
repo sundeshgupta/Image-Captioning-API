@@ -1,0 +1,12 @@
+Flask==1.0.2
+Flask-Jsonpify==1.5.0
+Flask-RESTful==0.3.8
+Keras==2.3.1
+matplotlib==3.1.0
+pandas==0.24.2
+pickleshare==0.7.5
+tensorflow-estimator==2.1.0
+tensorflow-gpu==2.1.0
+tf-estimator-nightly==2.1.0.dev2020012309
+tf-nightly==2.2.0.dev20200324
+Werkzeug==0.14.1
